@@ -1,0 +1,10 @@
+.vs
+Library
+*.csproj
+*.sln
+FacebookSDK
+PlayServicesResolver
+Plugins
+Plugins.meta
+FacebookSDK.meta
+PlayServicesResolver.meta
